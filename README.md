@@ -43,3 +43,54 @@ This repository will grow over time. Planned topics include:
 ---
 
 ## 🗂️ Repository Structure (coming soon!)
+---
+
+---
+
+## 📈 Progress Tracker  
+| Topic | Status |
+|-------|---------|
+| Variables, data types, input/output | 🔄 In progress |
+| Operators & expressions | ⏳ Upcoming |
+| Control flow | ⏳ Upcoming |
+| Loops | ⏳ Upcoming |
+| Data structures | ⏳ Upcoming |
+| Functions | ⏳ Upcoming |
+| File handling | ⏳ Upcoming |
+| Mini data project | ⏳ Upcoming |
+
+(These will update as lessons are completed.)
+
+---
+
+## 🧪 Mini Projects (Growing List)
+- **Profile Generator** — beginner script using input, variables, and printing  
+- **Text Analyzer** — count characters, words, etc.  
+- **CSV Reader** — load and analyze a simple dataset  
+- **Data Insights Script** — find averages, min/max, frequency counts  
+
+Each mini-project will have its own folder with explanation + code.
+
+---
+
+## 🚀 How to Use This Repo
+1. Read the notes for each topic  
+2. Follow along with example code  
+3. Complete the practice exercises  
+4. Build the mini-projects  
+5. Commit updates frequently to track progress  
+
+---
+
+## 🧭 Roadmap  
+1. Python Fundamentals  
+2. Data Structures + Algorithms Basics  
+3. Functions + Libraries  
+4. File Handling + Data Processing  
+5. Real-World Mini Data Projects  
+6. Introduction to Python for AI & Automation  
+
+---
+
+Happy learning — this repository will grow step-by-step as I progress through the Python curriculum and prepare for data/AI development.
+
